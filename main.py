@@ -25,7 +25,7 @@ async def start(bot, update):
 
 # COMMANDS
 
-START_TEXT = """🆔 Your Telegram ID : `{}`"""
+START_TEXT = """Ini ID Telegram Anda 💞 : `{}`"""
 
 # BUTTONS
 
